@@ -1,4 +1,8 @@
 # oddcat
+
+- 송재욱, 허종명 : 유니티C# 개발
+- 김나연 : 그래픽 소스 제공
+
 ![oddcat 2023-05-14 03-40-07-539](https://github.com/SsalHub/oddcat/assets/53378637/775046b6-3198-46c5-8246-9f43bfddeeb1)
 **main screen**
 
